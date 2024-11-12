@@ -39,8 +39,7 @@ main {
 }
 
 .event-details,
-.event-schedule,
-.contact-info {
+.event-schedule {
     background: white;
     margin: 20px 0;
     padding: 15px;
